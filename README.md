@@ -1,2 +1,2 @@
 # Assignment
-Codignal Assignment
+A repo for my assignments
